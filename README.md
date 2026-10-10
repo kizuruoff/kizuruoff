@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <h1 align="center">hi, i am kizuruoff 👋</h1>
+</p>
 
-<!--
-**kizuruoff/kizuruoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  stable cachyos user and KDE Plasma <br>
+  have experience jailbreaking and tweaking legacy iPhones <br>
+  experience with 3x-UI and VPS <br>
+  experience with AI such as Claude, Gemini, and ChatGPT <br>
+  i'm knowledgeable about modding games such as Minecraft, Hytale, and others <br>
+  player on the PepeLand server network in Minecraft (the best community I've ever seen)
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <br>
+  <!-- Tech Stack & Tools -->
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/CachyOS-00A8A8?style=for-the-badge&logo=linux&logoColor=white" alt="CachyOS" />
+  <img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" alt="KDE" />
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Minecraft-2E8B57?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
+  <br>
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E44AD?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+</p>
