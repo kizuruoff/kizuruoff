@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">hi, i am kizuruoff 👋</h1>
 </p>
-
+<img width="1920" height="1080" alt="image_2026-07-26_12-21-28" src="https://github.com/user-attachments/assets/52907939-823e-4300-8053-d25b7ce1226c" />
 <p align="center">
   stable cachyos user and KDE Plasma <br>
   have experience jailbreaking and tweaking legacy iPhones <br>
