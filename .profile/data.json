@@ -1,5 +1,5 @@
 {
- "key": "587cadca",
+ "key": "6dd1ca29",
  "stars": 0,
  "contributions": 17,
  "repos": 3,
@@ -108,9 +108,13 @@
    {
     "c": 0,
     "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
     "today": true
    },
-   null,
    null,
    null
   ]
